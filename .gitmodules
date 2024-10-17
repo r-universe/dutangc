@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RTDE"]
+	path = RTDE
+	url = https://github.com/cran/RTDE
 [submodule "rngWELL"]
 	path = rngWELL
 	url = https://github.com/cran/rngWELL
+[submodule "tsallisqexp"]
+	path = tsallisqexp
+	url = https://github.com/cran/tsallisqexp
