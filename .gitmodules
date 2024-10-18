@@ -2,9 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "OneStep"]
+	path = OneStep
+	url = https://github.com/cran/OneStep
 [submodule "RTDE"]
 	path = RTDE
 	url = https://github.com/cran/RTDE
+[submodule "gumbel"]
+	path = gumbel
+	url = https://github.com/cran/gumbel
 [submodule "rngWELL"]
 	path = rngWELL
 	url = https://github.com/cran/rngWELL
